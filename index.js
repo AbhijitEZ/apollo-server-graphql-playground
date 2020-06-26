@@ -19,10 +19,10 @@ const resolvers = {
         name: "hello world",
         friends: [
           {
-            name: "John"
+            name: "World"
           },
           {
-            name: "Cle"
+            name: "Test"
           }
         ]
       };
